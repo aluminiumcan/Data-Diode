@@ -1,5 +1,4 @@
-# **DataDiode Project
-**
+# **DataDiode Project**
 
 ## **Useful links**
 [Projectdocumentatie](https://hrnl-my.sharepoint.com/:w:/g/personal/1082232_hr_nl/IQDMQtTqAgl9RrKlo32S9mP-Abptx6Tu_zu8gMitEQDPppM?e=s8bewr)

@@ -9,6 +9,8 @@ LD6, LD8, LD10 (keuzeleerdoelen) + LD4 (planning en risico's, bewijs hieronder).
 | Bestand | Wat | Jira |
 |---------|-----|------|
 | [LD4-planning-en-risico.md](LD4-planning-en-risico.md) | Planningswijzigingen, risicolijst, sprintoverzicht (bewijs LD4) | DD-23, DD-42, DD-43 |
+| [PvE.md](PvE.md) | Programma van Eisen v1.0 (concept), gebouwd op opzet van Bart (bewijs LD6) | DD-7 |
+| [PvE.pdf](PvE.pdf) | PDF-versie van PvE.md | DD-7 |
 
 ## Mijn Jira-taken
 - DD-7 PvE (sprint 1)

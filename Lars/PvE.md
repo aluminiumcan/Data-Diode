@@ -3,12 +3,11 @@
 |                   |   |                                                                  |
 |-------------------|---|------------------------------------------------------------------|
 | Opgesteld door    | : | Projectgroep DataDiode                                           |
-| Projectleider     | : | Jens van Winden                                                  |
 | Projectleden      | : | Bart Sterrenburg, Ivo Bruinsma, Lars de Boorder, Issam Mahrik    |
-| Begeleider        | : | Jens van Winden                                                  |
-| Opdrachtgever     | : | Sentyron                                                         |
-| Versie            | : | 1.0 (concept)                                                    |
-| Datum van uitgifte| : | 06-10-2026                                                       |
+| Begeleider        | : | Harry Broeders (Hogeschool Rotterdam)                            |
+| Opdrachtgever     | : | Sentyron (contactpersoon: Jens van Winden)                       |
+| Versie            | : | 1.1 (concept)                                                    |
+| Datum van uitgifte| : | 08-10-2026                                                       |
 
 ## Versiebeheer
 
@@ -16,6 +15,7 @@
 |--------|------------|------------------|---------------------------------------------------------------------|
 | 0.1    | 01-10-2026 | Bart Sterrenburg | Eerste opzet van de eisen (functioneel, security, prestatie, tests) |
 | 1.0    | 06-10-2026 | Lars de Boorder  | Analyse van de wensen toegevoegd, prioriteiten aangepast aan de opdrachtgever, bron per eis, fasering en open vragen |
+| 1.1    | 08-10-2026 | Lars de Boorder  | Begeleider en contactpersoon opdrachtgever verbeterd                 |
 
 ---
 
